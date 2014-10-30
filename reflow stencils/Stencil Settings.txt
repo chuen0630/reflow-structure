@@ -1,0 +1,7 @@
+Stencil thickness: 50 micrometers
+
+Laser Cutter Settings:
+10% Power
+3% Speed
+
+5000th PET
